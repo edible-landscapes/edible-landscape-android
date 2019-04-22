@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Edible Landscapes</string>
+    <string name="bottomnav_title_0">Home</string>
+    <string name="bottomnav_title_1">Stores</string>
+    <string name="bottomnav_title_2">Profile</string>
+
+    <string name="store_title">Title</string>
+    <string name="store_address">Secondary Text</string>
+</resources>

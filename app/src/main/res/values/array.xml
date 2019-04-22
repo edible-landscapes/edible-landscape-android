@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="list_array">
+        <item>Fresh</item>
+        <item>Whole Foods</item>
+        <item>Target</item>
+    </string-array>
+
+    <string-array name="list_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+</resources>

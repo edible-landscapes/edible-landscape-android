@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="56dp">
+
+    <GridView
+        android:id="@+id/grid"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:drawSelectorOnTop="true"
+        android:horizontalSpacing="@dimen/store_grid_spacing"
+        android:numColumns="2"
+        android:orientation="vertical"
+        android:padding="@dimen/store_grid_spacing"
+        android:scrollbarStyle="outsideOverlay"
+        android:verticalSpacing="@dimen/store_grid_spacing" />
+
+</LinearLayout>
