@@ -13,5 +13,3 @@ Our initial target audience include the students of University of Wisconsin-Madi
 3) Work with a university department
 4) Expand to a larger audience
 5) Implement other services from Code4Good
-## Preview
-![edible-landscape-gif-1-compressed](https://user-images.githubusercontent.com/25170682/56696750-5fdc5d80-66b2-11e9-9587-abcd453d5c1a.gif)
