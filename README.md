@@ -14,4 +14,4 @@ Our initial target audience include the students of University of Wisconsin-Madi
 4) Expand to a larger audience
 5) Implement other services from Code4Good
 ## Preview (04/25/2019)
-<img src="https://user-images.githubusercontent.com/25170682/56777139-73acc000-6795-11e9-926e-441786e48631.gif" width="400">
+<img src="https://user-images.githubusercontent.com/25170682/56777139-73acc000-6795-11e9-926e-441786e48631.gif" width="350">
