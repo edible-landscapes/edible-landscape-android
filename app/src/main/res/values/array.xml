@@ -2,9 +2,9 @@
 <resources>
 
     <string-array name="list_array">
-        <item>Fresh</item>
-        <item>Whole Foods</item>
-        <item>Target</item>
+        <item>Store 1</item>
+        <item>Store 2</item>
+        <item>Store 3</item>
     </string-array>
 
     <string-array name="list_values">
